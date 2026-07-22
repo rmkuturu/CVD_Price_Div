@@ -4,3 +4,9 @@ __pycache__/
 *.pyd
 
 .dashboard_config.json
+
+# Local reference/docs files; keep them on disk but out of GitHub.
+cg_*.md
+coinalyze_doc.html
+coinglass_docs_home.html
+coinglass_llms.txt
